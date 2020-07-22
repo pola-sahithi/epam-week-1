@@ -1,0 +1,7 @@
+Practicing Git commands
+
+epam task 1
+
+adding another file to make second commit
+
+
